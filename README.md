@@ -1,1 +1,1 @@
-# generate-release-notes
+# Generate Release Notes
